@@ -1,0 +1,2 @@
+a="ROCCO LIVINGSTON"
+print(a[8:13:1])

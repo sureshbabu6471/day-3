@@ -1,0 +1,2 @@
+s="LANDEN VILLANUEVA"
+print(s[3:6:1])

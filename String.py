@@ -1,0 +1,2 @@
+s="LANDEN VILLANUEVA"
+print(s[10:14:1])
